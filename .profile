@@ -34,6 +34,9 @@ export FLUTTER_INSTALL="/home/yeru/Documents/src/flutter"
 export PATH="$FLUTTER_INSTALL/bin:$PATH"
 export CHROME_EXECUTABLE="/home/yeru/.local/share/flatpak/exports/bin/org.chromium.Chromium"
 export PATH="~/.local/share/flatpak/exports/bin:$PATH"
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH=$BUN_INSTALL/bin:$PATH
 
 
 
